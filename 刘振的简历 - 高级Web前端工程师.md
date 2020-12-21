@@ -2,13 +2,13 @@
 
  - 刘振 / 男 
 
- - 大专 / 电子科大
+ - 大专 / 电子科大 （西电本科在读）
 
  - 工作年限：9年
 
  - 技术博客：<a href="https://github.com/kaindy7633/blog">https://github.com/kaindy7633/blog</a>
 
- - 期望职位：高级Web前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs)
+ - 期望职位：高级Web前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs/golang)
 
  - 期望城市：成都
 
@@ -25,7 +25,7 @@
 
 # 能力描述
 
-- 熟悉HTML5/CSS3/JavaScript /jQuery
+- 熟悉HTML5/CSS3/JavaScript/jQuery
 
 - 熟悉原生JavaScript，ES6/ES7/ES8，及其面向对象、模块化、设计模式等特性
 
@@ -33,27 +33,27 @@
 
 - 熟悉Gulp、Webpack项目工程编译工具和版本管理工具Git
 
-- 熟悉Vuejs2.x/3.x、全家桶（vue-router、vuex）及其SSR（Nuxtjs）
-
 - 熟悉ReactJS、全家桶(React-Router、Redux、Mobx)、Hooks及其SSR（Nextjs）
 
-- 熟悉TypeScript，以及其在Vue和React中的应用
+- 熟悉Vuejs2.x/3.x、全家桶（vue-router、vuex）及其SSR（Nuxtjs）
+
+- 熟悉TypeScript，以及其在React和Vue中的应用
 
 - 熟悉AngularJS，具有两个中大型企业级项目的开发经验
 
 - 熟悉基于Taro和UniAPP开发H5、小程序和原生APP
 
-- 熟悉Nodejs开发，熟练使用Eggjs、Nestjs开发CURD应用
+- 熟悉Nodejs / Golang Web 后端开发，熟练使用Eggjs、Nestjs、Beego、Bin开发CURD应用
 
 - 熟悉前端项目在Linux下的部署、性能测试及异常监控(及Docker下前端多服务应用部署)
+
+- 熟悉前端工程持续化集成，多集群负载，多版本共存及灾备版本回滚
 
 - 熟悉Web前端架构的设计、开发以及维护
 
 - 具备丰富的前端团队管理经验，可胜任中型前端团队管理岗位
 
-- 有PHP、Python开发经验
-
-- 了解React Native和Flutter(学习中)
+- 了解React Native和Flutter
 
 
 # 工作经历
