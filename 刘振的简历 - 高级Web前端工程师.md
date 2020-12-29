@@ -8,7 +8,7 @@
 
  - 技术博客：<a href="https://github.com/kaindy7633/blog">https://github.com/kaindy7633/blog</a>
 
- - 期望职位：高级Web前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs/golang)
+ - 期望职位：高级Web前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs)
 
  - 期望城市：成都
 
@@ -43,7 +43,7 @@
 
 - 熟悉基于Taro和UniAPP开发H5、小程序和原生APP
 
-- 熟悉Nodejs / Golang Web 后端开发，熟练使用Eggjs、Nestjs、Beego、Bin开发CURD应用
+- 熟悉Nodejs Web 后端开发，熟练使用Eggjs、Nestjs开发CURD应用
 
 - 熟悉前端项目在Linux下的部署、性能测试及异常监控(及Docker下前端多服务应用部署)
 
@@ -76,7 +76,7 @@
 
 5、 负责带领团队基于React+SVG开发仿生演示系统
 
-6、 基于业务要求开发基于THREEjs的Web3D演示系统
+6、 基于业务要求开发基于Threejs的Web3D演示系统
 
 7、 负责前端团队技术管理和日常工作管理
 
