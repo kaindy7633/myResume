@@ -2,7 +2,7 @@
 
 - 刘振 / 男
 
-- 大专 / 电子科大 （西电本科在读）
+- 大专 / 电子科大 （西电本科-计算机科学与技术专业在读）
 
 - 工作年限：10 年
 
@@ -24,13 +24,7 @@
 
 # 能力描述
 
-- 熟悉 HTML5/CSS3/JavaScript/jQuery
-
-- 熟悉原生 JavaScript，ES6/ES7/ES8，及其面向对象、模块化、设计模式等特性
-
-- 熟悉 CSS 预处理器 Sass/Less/Stylus
-
-- 熟悉 Gulp、Webpack 项目工程编译工具和版本管理工具 Git
+- 熟悉原生 HTML5/CSS3/JavaScript，ES6+，及其面向对象、模块化、设计模式等特性
 
 - 熟悉 ReactJS、全家桶(React-Router、Redux、Mobx)、Hooks 及其 SSR（Nextjs）
 
@@ -38,21 +32,21 @@
 
 - 熟悉 TypeScript，以及其在 React 和 Vue 中的应用
 
-- 熟悉 AngularJS，具有两个中大型企业级项目的开发经验
+- 熟悉基于 Taro、UniAPP、Electron 开发 H5、小程序、原生 APP 和 GUI 桌面应用
 
-- 熟悉基于 Taro 和 UniAPP 开发 H5、小程序和原生 APP
+- 熟悉基于图编辑引擎开发各类数据类、演示类图形化应用，如 AntV/G6 和 X6，及使用 Canvas/SVG 进行扩展
 
-- 熟悉 Nodejs Web 后端开发，熟练使用 Eggjs、Nestjs 开发 CURD 应用
+- 熟悉 Nodejs/Golang Web 开发，熟练使用 Eggjs、Nestjs、Gin 开发 CURD 应用
 
-- 熟悉 Golang Web 开发，熟练使用 Gin 框架开发 RestFul API
+- 熟悉 Webpack 项目工程编译工具和版本管理工具 Git
 
 - 熟悉前端项目在 Linux 下的部署、性能测试及异常监控(及 Docker 下前端多服务应用部署)
 
-- 熟悉前端工程持续化集成，多集群负载，多版本共存及灾备版本回滚
+- 熟悉前端工程持续化集成与发布，集群负载，多版本共存及灾备版本回滚
 
-- 熟悉 Web 前端架构的设计、开发以及维护
+- 熟悉 Web 前端架构的设计、开发以及维护，以及微前端 SINGE-SPA/QIANKUN 架构的设计和应用
 
-- 具备丰富的前端团队管理经验，可胜任中型前端团队管理岗位
+- 具备丰富的前端团队管理经验，可胜任中大型前端团队管理岗位，擅长开发管理、内协作、职业成长培训等
 
 - 了解 React Native 和 Flutter
 
