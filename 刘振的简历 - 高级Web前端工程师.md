@@ -8,7 +8,7 @@
 
 - 技术博客：<a href="https://github.com/kaindy7633/blog">https://github.com/kaindy7633/blog</a>
 
-- 期望职位：高级 Web 前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs)
+- 期望职位：高级 Web 前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs/Golang)
 
 - 期望城市：成都
 
@@ -32,11 +32,9 @@
 
 - 熟悉 TypeScript，以及其在 React 和 Vue 中的应用
 
-- 熟悉基于 Taro、UniAPP、Electron 开发 H5、小程序、原生 APP 和 GUI 桌面应用
+- 熟悉基于 Taro、Electron 开发 H5、小程序、原生 APP 和 GUI 桌面应用
 
-- 熟悉基于图编辑引擎开发各类数据类、演示类图形化应用，如 AntV/G6 和 X6，及使用 Canvas/SVG 进行扩展
-
-- 熟悉 Nodejs Web 开发，熟练使用 Eggjs、Nestjs、Midwayjs 开发 CURD 应用
+- 熟悉 Nodejs/Golang Web 开发，熟练使用 Eggjs、Nestjs、Gin 开发 CURD 应用
 
 - 熟悉 Webpack 项目工程编译工具和版本管理工具 Git
 
@@ -46,7 +44,7 @@
 
 - 熟悉 Web 前端架构的设计、开发以及维护，以及微前端 SINGE-SPA/QIANKUN 架构的设计和应用
 
-- 具备丰富的前端团队管理经验，可胜任中大型前端团队管理岗位，擅长开发管理、内协作、职业成长培训等
+- 具备丰富的前端团队管理经验，可胜任中大型前端团队管理岗位，擅长开发流程管理、内协作、职业成长培训等
 
 - 了解 React Native 和 Flutter
 
