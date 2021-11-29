@@ -8,7 +8,7 @@
 
 - 技术博客：<a href="https://github.com/kaindy7633/blog">https://github.com/kaindy7633/blog</a>
 
-- 期望职位：高级 Web 前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs/Golang)
+- 期望职位：高级 Web 前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs)
 
 - 期望城市：成都
 
@@ -34,7 +34,7 @@
 
 - 熟悉基于 Taro、Electron 开发 H5、小程序、原生 APP 和 GUI 桌面应用
 
-- 熟悉 Nodejs/Golang Web 开发，熟练使用 Eggjs、Nestjs、Gin 开发 CURD 应用
+- 熟悉 Nodejs Web 开发，熟练使用 Eggjs、Nestjs 开发 CURD 应用
 
 - 熟悉 Webpack 项目工程编译工具和版本管理工具 Git
 
