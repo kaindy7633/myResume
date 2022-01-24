@@ -154,9 +154,11 @@
 
 ## 纳米学位(网教)
 
-Web 前端工程师 （2015.01 –2015.11）
+Web 前端工程师 （2016.06 –2017.07）
 
-学习由美国硅谷优达学城、Google、Github 等企业联合制作的 Web 前端工程师培训课程，深入学习 JavaScript 面向对象、网站性能优化、浏览器编译原理、HTTP 协议等课程。
+学习由美国硅谷优达学城、Google、Github 等企业联合制作的 Web 前端工程师培训课程，深入学习 JavaScript 面向对象、网站性能优化、浏览器编译原理、HTTP 协议等课程。<a href="https://confirm.udacity.com/HHPDAJDH">certificate_verify</a>
+
+<p style="text-align:left;"><img src="./UDACity_Certificate.jpg" width="300"></img></p>
 
 ## 成都电子科大成教院
 

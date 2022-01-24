@@ -152,9 +152,11 @@ Web/PHP engineer/student (January 2011 ~ August 2012)
 
 ## Nanodegree (online education)
 
-Web front-end engineer (2015.01 –2015.11)
+Web front-end engineer (2016.06 –2017.07)
 
-Learn the web front-end engineer training courses jointly produced by Silicon Valley, Google, Github and other companies. In-depth study of JavaScript object-oriented, website performance optimization, browser compilation principles, HTTP protocol and other courses.
+Learn the web front-end engineer training courses jointly produced by Silicon Valley, Google, Github and other companies. In-depth study of JavaScript object-oriented, website performance optimization, browser compilation principles, HTTP protocol and other courses. <a href="https://confirm.udacity.com/HHPDAJDH">certificate_verify</a>
+
+<p style="text-align:left;"><img src="./UDACity_Certificate.jpg" width="300"></img></p>
 
 ## Chengdu University of Electronic Science and Technology Adult Education Institute
 
