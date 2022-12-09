@@ -4,15 +4,15 @@
 
 - 大专 / 成都电子科大
 
-- 工作年限：10 年
+- 工作年限：12 年
 
 - 技术博客：<a href="https://github.com/kaindy7633/blog">https://github.com/kaindy7633/blog</a>
 
-- 期望职位：高级 Web 前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs/Golang)
+- 期望职位：高级 Web 前端工程师(架构师) & 前端技术主管 & 全栈开发工程师(Nodejs)
 
 - 期望城市：成都
 
-- 目前状态：离职(随时到岗)
+- 目前状态：在职(月内到岗)
 
 # 联系方式
 
@@ -20,13 +20,13 @@
 
 - Email：**3494688@qq.com** (kaindy7633@gmail.com)
 
-- QQ / 微信号：3494688 / 18583360106
+- QQ / 微信号：**3494688** / **18583360106**
 
 # 能力描述
 
 - 熟悉原生 HTML5/CSS3/JavaScript，ES6+，及其面向对象、模块化、设计模式等特性
 
-- 熟悉 ReactJS、全家桶(React-Router、Redux、Mobx)、Hooks 及其 SSR（Nextjs）
+- 熟悉 ReactJS、全家桶(React-Router、Redux、Mobx)、Hooks 及其 SSR（Nextjs）, React Native 移动应用的设计与开发, 了解 flutter
 
 - 熟悉 Vuejs2.x/3.x、全家桶（vue-router、vuex）及其 SSR（Nuxtjs）
 
@@ -34,19 +34,17 @@
 
 - 熟悉基于 Taro、Electron 开发 H5、小程序、原生 APP 和 GUI 桌面应用
 
-- 熟悉 Nodejs Web、Golang Web 开发，熟练使用 Eggjs、Nestjs、Gin 开发 CURD 应用
+- 熟悉 Nodejs Web 开发，熟练使用 Eggjs、Nestjs、Midwayjs 开发 CURD 应用
 
 - 熟悉 Webpack 项目工程编译工具和版本管理工具 Git
 
 - 熟悉前端项目在 Linux 下的部署、性能测试及异常监控(及 Docker 下前端多服务应用部署)
 
-- 熟悉前端工程持续化集成与发布，集群负载，多版本共存及灾备版本回滚
+- 熟悉前端项目的CI/CD, 持续化集成与发布，集群负载，多版本共存及灾备版本回滚
 
 - 熟悉 Web 前端架构的设计、开发以及维护，了解微前端 SINGE-SPA/QIANKUN
 
 - 具备丰富的前端团队管理经验，可胜任中大型前端团队管理岗位，擅长开发流程管理、内协作、职业成长培训等
-
-- 了解 React Native 和 Flutter
 
 # 工作经历
 
